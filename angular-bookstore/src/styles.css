@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+@font-face{
+    font-family: 'Roborto Mono';
+    src: url(/assests/fonts/Roboto_Mono/RobotoMono_Regular.ttf) format("truetype");
+
+}
+
+body {
+    font-family: 'Roboto_Mono';
+}
